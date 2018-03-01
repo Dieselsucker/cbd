@@ -1,4 +1,4 @@
-/*
+s/*
  * Qt4 bitcoin GUI.
  *
  * W.J. van der Laan 2011-2012
@@ -78,7 +78,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     rpcConsole(0)
 {
     resize(850, 550);
-    setWindowTitle(tr("Cbd") + " - " + tr("Wallet"));
+    setWindowTitle(tr("Diesel") + " - " + tr("Wallet"));
 #ifndef Q_OS_MAC
     qApp->setWindowIcon(QIcon(":icons/bitcoin"));
     setWindowIcon(QIcon(":icons/bitcoin"));
