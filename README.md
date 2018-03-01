@@ -1,7 +1,7 @@
-CBD RELAX YOUR MIND
+Diesel powering the world
 
 50 M. 
-Ticker: CBD
+Ticker: DSL
 Maturity: 15 Blocks
 MIN STAKE AGE: 5 Hours
 MAX STAKE AGE: Unlimited
