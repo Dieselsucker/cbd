@@ -1,4 +1,4 @@
-Building cbd
-See doc/readme-qt.rst for instructions on building cbd QT.
+Building DSL
+See doc/readme-qt.rst for instructions on building DSL QT.
 
-See doc/build-*.txt for instructions on building cbdd.
+See doc/build-*.txt for instructions on building DSLd.
